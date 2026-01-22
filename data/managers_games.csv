@@ -1,0 +1,361 @@
+,Manager_Name,Player_Name,NFL_Team,Wildcard,Division,Conference
+0,Touch of the Downs,Trevor Lawrence,JAX,True,False,False
+1,Touch of the Downs,Jalen Hurts,PHI,True,False,False
+2,Touch of the Downs,Sam Darnold,SEA,False,True,True
+3,Touch of the Downs,Aaron Rodgers,PIT,True,False,False
+4,Touch of the Downs,Christian McCaffrey,SF,True,True,False
+5,Touch of the Downs,James Cook,BUF,True,True,False
+6,Touch of the Downs,Josh Jacobs,GB,True,False,False
+7,Touch of the Downs,Brian Robinson,SF,True,True,False
+8,Touch of the Downs,Davante Adams,LAR,True,True,True
+9,Touch of the Downs,Khalil Shakir,BUF,True,True,False
+10,Touch of the Downs,Kayshon Boutte,NE,True,True,True
+11,Touch of the Downs,DK Metcalf,PIT,True,False,False
+12,Touch of the Downs,Josh Palmer,BUF,True,True,False
+13,Touch of the Downs,Calvin Austin III,PIT,True,False,False
+14,Touch of the Downs,Dallas Goedert,PHI,True,False,False
+15,Touch of the Downs,Dalton Kincaid,BUF,True,True,False
+16,Touch of the Downs,AJ Barner,SEA,False,True,True
+17,Touch of the Downs,Pat Freiermuth,PIT,True,False,False
+18,Maye Day / Mark LaBossiere ,Drake Maye,NE,True,True,True
+19,Maye Day / Mark LaBossiere ,Matthew Stafford,LAR,True,True,True
+20,Maye Day / Mark LaBossiere ,Sam Darnold,SEA,False,True,True
+21,Maye Day / Mark LaBossiere ,C.J. Stroud,HOU,True,True,False
+22,Maye Day / Mark LaBossiere ,Kenneth Walker III,SEA,False,True,True
+23,Maye Day / Mark LaBossiere ,TreVeyon Henderson,NE,True,True,True
+24,Maye Day / Mark LaBossiere ,Zach Charbonnet,SEA,False,True,True
+25,Maye Day / Mark LaBossiere ,Ty Johnson, Buffalo Bills,True,False,False
+26,Maye Day / Mark LaBossiere ,Puka Nacua,LAR,True,True,True
+27,Maye Day / Mark LaBossiere ,Stefon Diggs,NE,True,True,True
+28,Maye Day / Mark LaBossiere ,Kayshon Boutte,NE,True,True,True
+29,Maye Day / Mark LaBossiere ,Rashid Shaheed,SEA,False,True,True
+30,Maye Day / Mark LaBossiere ,DeMario Douglas,NE,True,True,True
+31,Maye Day / Mark LaBossiere ,Tutu Atwell, Los Angeles Rams,True,False,False
+32,Maye Day / Mark LaBossiere ,Hunter Henry,NE,True,True,True
+33,Maye Day / Mark LaBossiere ,Dalton Kincaid,BUF,True,True,False
+34,Maye Day / Mark LaBossiere ,AJ Barner,SEA,False,True,True
+35,Maye Day / Mark LaBossiere ,Austin Hooper,NE,True,True,True
+36,Mike's legion of boomers ,Trevor Lawrence,JAX,True,False,False
+37,Mike's legion of boomers ,Jalen Hurts,PHI,True,False,False
+38,Mike's legion of boomers ,Sam Darnold,SEA,False,True,True
+39,Mike's legion of boomers ,Bryce Young,CAR,True,False,False
+40,Mike's legion of boomers ,Kenneth Walker III,SEA,False,True,True
+41,Mike's legion of boomers ,Travis Etienne,JAX,True,False,False
+42,Mike's legion of boomers ,Zach Charbonnet,SEA,False,True,True
+43,Mike's legion of boomers ,Rico Dowdle,CAR,True,False,False
+44,Mike's legion of boomers ,Jaxon Smith-Njigba,SEA,False,True,True
+45,Mike's legion of boomers ,Jayden Reed,GB,True,False,False
+46,Mike's legion of boomers ,Pat Bryant,DEN,False,True,True
+47,Mike's legion of boomers ,Cooper Kupp,SEA,False,True,True
+48,Mike's legion of boomers ,Kyle Williams,NE,True,True,True
+49,Mike's legion of boomers ,Marvin Mims Jr.,DEN,False,True,True
+50,Mike's legion of boomers ,Hunter Henry,NE,True,True,True
+51,Mike's legion of boomers ,Brenton Strange,JAX,True,False,False
+52,Mike's legion of boomers ,AJ Barner,SEA,False,True,True
+53,Mike's legion of boomers ,Austin Hooper,NE,True,True,True
+54,I Touchdown There (JC),Drake Maye,NE,True,True,True
+55,I Touchdown There (JC),Matthew Stafford,LAR,True,True,True
+56,I Touchdown There (JC),Sam Darnold,SEA,False,True,True
+57,I Touchdown There (JC),C.J. Stroud,HOU,True,True,False
+58,I Touchdown There (JC),Kenneth Walker III,SEA,False,True,True
+59,I Touchdown There (JC),TreVeyon Henderson,NE,True,True,True
+60,I Touchdown There (JC),Josh Jacobs,GB,True,False,False
+61,I Touchdown There (JC),Rico Dowdle,CAR,True,False,False
+62,I Touchdown There (JC),Jaxon Smith-Njigba,SEA,False,True,True
+63,I Touchdown There (JC),Stefon Diggs,NE,True,True,True
+64,I Touchdown There (JC),DJ Moore,CHI,True,True,False
+65,I Touchdown There (JC),DK Metcalf,PIT,True,False,False
+66,I Touchdown There (JC),Brandin Cooks,BUF,True,True,False
+67,I Touchdown There (JC),Christian Kirk,HOU,True,True,False
+68,I Touchdown There (JC),George Kittle,SF,True,True,False
+69,I Touchdown There (JC),Dalton Kincaid,BUF,True,True,False
+70,I Touchdown There (JC),Dalton Schultz,HOU,True,True,False
+71,I Touchdown There (JC),Oronde Gadsden II,LAC,True,False,False
+72,DUUUUUUUUUUUUUVAL,Trevor Lawrence,JAX,True,False,False
+73,DUUUUUUUUUUUUUVAL,Matthew Stafford,LAR,True,True,True
+74,DUUUUUUUUUUUUUVAL,Sam Darnold,SEA,False,True,True
+75,DUUUUUUUUUUUUUVAL,Jordan Love,GB,True,False,False
+76,DUUUUUUUUUUUUUVAL,Kyren Williams,LAR,True,True,True
+77,DUUUUUUUUUUUUUVAL,James Cook,BUF,True,True,False
+78,DUUUUUUUUUUUUUVAL,Josh Jacobs,GB,True,False,False
+79,DUUUUUUUUUUUUUVAL,Rico Dowdle,CAR,True,False,False
+80,DUUUUUUUUUUUUUVAL,Puka Nacua,LAR,True,True,True
+81,DUUUUUUUUUUUUUVAL,Stefon Diggs,NE,True,True,True
+82,DUUUUUUUUUUUUUVAL,Rome Odunze,CHI,True,True,False
+83,DUUUUUUUUUUUUUVAL,Tetairoa McMillan,CAR,True,False,False
+84,DUUUUUUUUUUUUUVAL,Keon Coleman,BUF,True,True,False
+85,DUUUUUUUUUUUUUVAL,Jaylin Noel,HOU,True,True,False
+86,DUUUUUUUUUUUUUVAL,George Kittle,SF,True,True,False
+87,DUUUUUUUUUUUUUVAL,Dalton Kincaid,BUF,True,True,False
+88,DUUUUUUUUUUUUUVAL,Tyler Higbee,LAR,True,True,True
+89,DUUUUUUUUUUUUUVAL,Oronde Gadsden II,LAC,True,False,False
+90,Wide Right Redemption - Tanja ,Josh Allen,BUF,True,True,False
+91,Wide Right Redemption - Tanja ,Jalen Hurts,PHI,True,False,False
+92,Wide Right Redemption - Tanja ,Sam Darnold,SEA,False,True,True
+93,Wide Right Redemption - Tanja ,C.J. Stroud,HOU,True,True,False
+94,Wide Right Redemption - Tanja ,Saquon Barkley,PHI,True,False,False
+95,Wide Right Redemption - Tanja ,James Cook,BUF,True,True,False
+96,Wide Right Redemption - Tanja ,Zach Charbonnet,SEA,False,True,True
+97,Wide Right Redemption - Tanja ,Ty Johnson, Buffalo Bills,True,False,False
+98,Wide Right Redemption - Tanja ,DeVonta Smith,PHI,True,False,False
+99,Wide Right Redemption - Tanja ,Khalil Shakir,BUF,True,True,False
+100,Wide Right Redemption - Tanja ,DJ Moore,CHI,True,True,False
+101,Wide Right Redemption - Tanja ,Jayden Higgins,HOU,True,True,False
+102,Wide Right Redemption - Tanja ,Brandin Cooks,BUF,True,True,False
+103,Wide Right Redemption - Tanja ,Marvin Mims Jr.,DEN,False,True,True
+104,Wide Right Redemption - Tanja ,George Kittle,SF,True,True,False
+105,Wide Right Redemption - Tanja ,Dalton Kincaid,BUF,True,True,False
+106,Wide Right Redemption - Tanja ,Dalton Schultz,HOU,True,True,False
+107,Wide Right Redemption - Tanja ,Austin Hooper,NE,True,True,True
+108,The Cannoli Fillers,Josh Allen,BUF,True,True,False
+109,The Cannoli Fillers,Matthew Stafford,LAR,True,True,True
+110,The Cannoli Fillers,Caleb Williams,CHI,True,True,False
+111,The Cannoli Fillers,C.J. Stroud,HOU,True,True,False
+112,The Cannoli Fillers,Kyren Williams,LAR,True,True,True
+113,The Cannoli Fillers,James Cook,BUF,True,True,False
+114,The Cannoli Fillers,Woody Marks,HOU,True,True,False
+115,The Cannoli Fillers,Ty Johnson, Buffalo Bills,True,False,False
+116,The Cannoli Fillers,Puka Nacua,LAR,True,True,True
+117,The Cannoli Fillers,Khalil Shakir,BUF,True,True,False
+118,The Cannoli Fillers,DJ Moore,CHI,True,True,False
+119,The Cannoli Fillers,Jayden Higgins,HOU,True,True,False
+120,The Cannoli Fillers,Brandin Cooks,BUF,True,True,False
+121,The Cannoli Fillers,Olamide Zaccheaus,CHI,True,True,False
+122,The Cannoli Fillers,Colby Parkinson,LAR,True,True,True
+123,The Cannoli Fillers,Dalton Kincaid,BUF,True,True,False
+124,The Cannoli Fillers,Dalton Schultz,HOU,True,True,False
+125,The Cannoli Fillers,Oronde Gadsden II,LAC,True,False,False
+126,Duvallll,Trevor Lawrence,JAX,True,False,False
+127,Duvallll,Matthew Stafford,LAR,True,True,True
+128,Duvallll,Sam Darnold,SEA,False,True,True
+129,Duvallll,Aaron Rodgers,PIT,True,False,False
+130,Duvallll,Saquon Barkley,PHI,True,False,False
+131,Duvallll,James Cook,BUF,True,True,False
+132,Duvallll,Josh Jacobs,GB,True,False,False
+133,Duvallll,Bhayshul Tuten,JAX,True,False,False
+134,Duvallll,Puka Nacua,LAR,True,True,True
+135,Duvallll,Brian Thomas Jr.,JAX,True,False,False
+136,Duvallll,Quentin Johnston,LAC,True,False,False
+137,Duvallll,DK Metcalf,PIT,True,False,False
+138,Duvallll,Gabe Davis,BUF,True,True,False
+139,Duvallll,Marvin Mims Jr.,DEN,False,True,True
+140,Duvallll,Dallas Goedert,PHI,True,False,False
+141,Duvallll,Dawson Knox,BUF,True,True,False
+142,Duvallll,Tyler Higbee,LAR,True,True,True
+143,Duvallll,Pat Freiermuth,PIT,True,False,False
+144,Tapioca Pudding,Drake Maye,NE,True,True,True
+145,Tapioca Pudding,Matthew Stafford,LAR,True,True,True
+146,Tapioca Pudding,Sam Darnold,SEA,False,True,True
+147,Tapioca Pudding,Aaron Rodgers,PIT,True,False,False
+148,Tapioca Pudding,Christian McCaffrey,SF,True,True,False
+149,Tapioca Pudding,James Cook,BUF,True,True,False
+150,Tapioca Pudding,Josh Jacobs,GB,True,False,False
+151,Tapioca Pudding,Rico Dowdle,CAR,True,False,False
+152,Tapioca Pudding,Puka Nacua,LAR,True,True,True
+153,Tapioca Pudding,Jakobi Meyers,JAX,True,False,False
+154,Tapioca Pudding,DJ Moore,CHI,True,True,False
+155,Tapioca Pudding,DK Metcalf,PIT,True,False,False
+156,Tapioca Pudding,Kyle Williams,NE,True,True,True
+157,Tapioca Pudding,Tutu Atwell, Los Angeles Rams,True,False,False
+158,Tapioca Pudding,Hunter Henry,NE,True,True,True
+159,Tapioca Pudding,Dalton Kincaid,BUF,True,True,False
+160,Tapioca Pudding,AJ Barner,SEA,False,True,True
+161,Tapioca Pudding,Pat Freiermuth,PIT,True,False,False
+162,McSrq,Josh Allen,BUF,True,True,False
+163,McSrq,Brock Purdy,SF,True,True,False
+164,McSrq,Justin Herbert,LAC,True,False,False
+165,McSrq,C.J. Stroud,HOU,True,True,False
+166,McSrq,Christian McCaffrey,SF,True,True,False
+167,McSrq,James Cook,BUF,True,True,False
+168,McSrq,Woody Marks,HOU,True,True,False
+169,McSrq,Ty Johnson, Buffalo Bills,True,False,False
+170,McSrq,Ricky Pearsall,SF,True,True,False
+171,McSrq,Khalil Shakir,BUF,True,True,False
+172,McSrq,Quentin Johnston,LAC,True,False,False
+173,McSrq,Jayden Higgins,HOU,True,True,False
+174,McSrq,Brandin Cooks,BUF,True,True,False
+175,McSrq,Christian Kirk,HOU,True,True,False
+176,McSrq,George Kittle,SF,True,True,False
+177,McSrq,Dawson Knox,BUF,True,True,False
+178,McSrq,Tyler Higbee,LAR,True,True,True
+179,McSrq,Austin Hooper,NE,True,True,True
+180,OJ’s revenge/ ethan,Josh Allen,BUF,True,True,False
+181,OJ’s revenge/ ethan,Jalen Hurts,PHI,True,False,False
+182,OJ’s revenge/ ethan,Bo Nix,DEN,False,True,True
+183,OJ’s revenge/ ethan,Aaron Rodgers,PIT,True,False,False
+184,OJ’s revenge/ ethan,Saquon Barkley,PHI,True,False,False
+185,OJ’s revenge/ ethan,James Cook,BUF,True,True,False
+186,OJ’s revenge/ ethan,Zach Charbonnet,SEA,False,True,True
+187,OJ’s revenge/ ethan,Ty Johnson, Buffalo Bills,True,False,False
+188,OJ’s revenge/ ethan,Puka Nacua,LAR,True,True,True
+189,OJ’s revenge/ ethan,Khalil Shakir,BUF,True,True,False
+190,OJ’s revenge/ ethan,Troy Franklin, Denver Broncos,True,False,False
+191,OJ’s revenge/ ethan,DK Metcalf,PIT,True,False,False
+192,OJ’s revenge/ ethan,Keon Coleman,BUF,True,True,False
+193,OJ’s revenge/ ethan,Marvin Mims Jr.,DEN,False,True,True
+194,OJ’s revenge/ ethan,Evan Engram,DEN,False,True,True
+195,OJ’s revenge/ ethan,Dalton Kincaid,BUF,True,True,False
+196,OJ’s revenge/ ethan,Tyler Higbee,LAR,True,True,True
+197,OJ’s revenge/ ethan,Pat Freiermuth,PIT,True,False,False
+198,Dub season ,Trevor Lawrence,JAX,True,False,False
+199,Dub season ,Matthew Stafford,LAR,True,True,True
+200,Dub season ,Caleb Williams,CHI,True,True,False
+201,Dub season ,C.J. Stroud,HOU,True,True,False
+202,Dub season ,Saquon Barkley,PHI,True,False,False
+203,Dub season ,Travis Etienne,JAX,True,False,False
+204,Dub season ,Josh Jacobs,GB,True,False,False
+205,Dub season ,Ty Johnson, Buffalo Bills,True,False,False
+206,Dub season ,Puka Nacua,LAR,True,True,True
+207,Dub season ,Nico Collins,HOU,True,True,False
+208,Dub season ,Parker Washington,JAX,True,False,False
+209,Dub season ,Jayden Higgins,HOU,True,True,False
+210,Dub season ,Brandin Cooks,BUF,True,True,False
+211,Dub season ,Dontayvion Wicks, Green Bay Packers,True,False,False
+212,Dub season ,Dallas Goedert,PHI,True,False,False
+213,Dub season ,Colston Loveland,CHI,True,True,False
+214,Dub season ,Dalton Schultz,HOU,True,True,False
+215,Dub season ,Luke Musgrave,GB,True,False,False
+216,HoosierDaddy / Greg McBride,Drake Maye,NE,True,True,True
+217,HoosierDaddy / Greg McBride,Jalen Hurts,PHI,True,False,False
+218,HoosierDaddy / Greg McBride,Bo Nix,DEN,False,True,True
+219,HoosierDaddy / Greg McBride,C.J. Stroud,HOU,True,True,False
+220,HoosierDaddy / Greg McBride,Christian McCaffrey,SF,True,True,False
+221,HoosierDaddy / Greg McBride,Travis Etienne,JAX,True,False,False
+222,HoosierDaddy / Greg McBride,Josh Jacobs,GB,True,False,False
+223,HoosierDaddy / Greg McBride,Rico Dowdle,CAR,True,False,False
+224,HoosierDaddy / Greg McBride,Puka Nacua,LAR,True,True,True
+225,HoosierDaddy / Greg McBride,Nico Collins,HOU,True,True,False
+226,HoosierDaddy / Greg McBride,Kayshon Boutte,NE,True,True,True
+227,HoosierDaddy / Greg McBride,Keenan Allen,LAC,True,False,False
+228,HoosierDaddy / Greg McBride,DeMario Douglas,NE,True,True,True
+229,HoosierDaddy / Greg McBride,Tutu Atwell, Los Angeles Rams,True,False,False
+230,HoosierDaddy / Greg McBride,George Kittle,SF,True,True,False
+231,HoosierDaddy / Greg McBride,Brenton Strange,JAX,True,False,False
+232,HoosierDaddy / Greg McBride,Terrance Ferguson,LAR,True,True,True
+233,HoosierDaddy / Greg McBride,Austin Hooper,NE,True,True,True
+234,KaiBearMom/Gigi,Josh Allen,BUF,True,True,False
+235,KaiBearMom/Gigi,Jalen Hurts,PHI,True,False,False
+236,KaiBearMom/Gigi,Bo Nix,DEN,False,True,True
+237,KaiBearMom/Gigi,Jordan Love,GB,True,False,False
+238,KaiBearMom/Gigi,Christian McCaffrey,SF,True,True,False
+239,KaiBearMom/Gigi,Kyle Monangai,CHI,True,True,False
+240,KaiBearMom/Gigi,Jaylen Warren,PIT,True,False,False
+241,KaiBearMom/Gigi,Ty Johnson, Buffalo Bills,True,False,False
+242,KaiBearMom/Gigi,Davante Adams,LAR,True,True,True
+243,KaiBearMom/Gigi,Khalil Shakir,BUF,True,True,False
+244,KaiBearMom/Gigi,Quentin Johnston,LAC,True,False,False
+245,KaiBearMom/Gigi,Cooper Kupp,SEA,False,True,True
+246,KaiBearMom/Gigi,Brandin Cooks,BUF,True,True,False
+247,KaiBearMom/Gigi,Tutu Atwell, Los Angeles Rams,True,False,False
+248,KaiBearMom/Gigi,Dallas Goedert,PHI,True,False,False
+249,KaiBearMom/Gigi,Dalton Kincaid,BUF,True,True,False
+250,KaiBearMom/Gigi,Tyler Higbee,LAR,True,True,True
+251,KaiBearMom/Gigi,Luke Musgrave,GB,True,False,False
+252,Bye Felicia,Trevor Lawrence,JAX,True,False,False
+253,Bye Felicia,Matthew Stafford,LAR,True,True,True
+254,Bye Felicia,Sam Darnold,SEA,False,True,True
+255,Bye Felicia,C.J. Stroud,HOU,True,True,False
+256,Bye Felicia,Kenneth Walker III,SEA,False,True,True
+257,Bye Felicia,Travis Etienne,JAX,True,False,False
+258,Bye Felicia,Josh Jacobs,GB,True,False,False
+259,Bye Felicia,Ty Johnson, Buffalo Bills,True,False,False
+260,Bye Felicia,Jaxon Smith-Njigba,SEA,False,True,True
+261,Bye Felicia,Jakobi Meyers,JAX,True,False,False
+262,Bye Felicia,Kayshon Boutte,NE,True,True,True
+263,Bye Felicia,Cooper Kupp,SEA,False,True,True
+264,Bye Felicia,Brandin Cooks,BUF,True,True,False
+265,Bye Felicia,Marvin Mims Jr.,DEN,False,True,True
+266,Bye Felicia,Dallas Goedert,PHI,True,False,False
+267,Bye Felicia,Dawson Knox,BUF,True,True,False
+268,Bye Felicia,AJ Barner,SEA,False,True,True
+269,Bye Felicia,Pat Freiermuth,PIT,True,False,False
+270,"Ass Whipping Commencing in 3, 2, 1…",Josh Allen,BUF,True,True,False
+271,"Ass Whipping Commencing in 3, 2, 1…",Brock Purdy,SF,True,True,False
+272,"Ass Whipping Commencing in 3, 2, 1…",Bo Nix,DEN,False,True,True
+273,"Ass Whipping Commencing in 3, 2, 1…",C.J. Stroud,HOU,True,True,False
+274,"Ass Whipping Commencing in 3, 2, 1…",Saquon Barkley,PHI,True,False,False
+275,"Ass Whipping Commencing in 3, 2, 1…",James Cook,BUF,True,True,False
+276,"Ass Whipping Commencing in 3, 2, 1…",Jaylen Warren,PIT,True,False,False
+277,"Ass Whipping Commencing in 3, 2, 1…",Ty Johnson, Buffalo Bills,True,False,False
+278,"Ass Whipping Commencing in 3, 2, 1…",DeVonta Smith,PHI,True,False,False
+279,"Ass Whipping Commencing in 3, 2, 1…",Stefon Diggs,NE,True,True,True
+280,"Ass Whipping Commencing in 3, 2, 1…",Parker Washington,JAX,True,False,False
+281,"Ass Whipping Commencing in 3, 2, 1…",DK Metcalf,PIT,True,False,False
+282,"Ass Whipping Commencing in 3, 2, 1…",Brandin Cooks,BUF,True,True,False
+283,"Ass Whipping Commencing in 3, 2, 1…",Tutu Atwell, Los Angeles Rams,True,False,False
+284,"Ass Whipping Commencing in 3, 2, 1…",George Kittle,SF,True,True,False
+285,"Ass Whipping Commencing in 3, 2, 1…",Dalton Kincaid,BUF,True,True,False
+286,"Ass Whipping Commencing in 3, 2, 1…",Dalton Schultz,HOU,True,True,False
+287,"Ass Whipping Commencing in 3, 2, 1…",Austin Hooper,NE,True,True,True
+288,Spencer,Drake Maye,NE,True,True,True
+289,Spencer,Jalen Hurts,PHI,True,False,False
+290,Spencer,Bo Nix,DEN,False,True,True
+291,Spencer,Jordan Love,GB,True,False,False
+292,Spencer,Saquon Barkley,PHI,True,False,False
+293,Spencer,Rhamondre Stevenson,NE,True,True,True
+294,Spencer,Josh Jacobs,GB,True,False,False
+295,Spencer,Ty Johnson, Buffalo Bills,True,False,False
+296,Spencer,A.J. Brown,PHI,True,False,False
+297,Spencer,Stefon Diggs,NE,True,True,True
+298,Spencer,Kayshon Boutte,NE,True,True,True
+299,Spencer,Romeo Doubs,GB,True,False,False
+300,Spencer,Brandin Cooks,BUF,True,True,False
+301,Spencer,Marvin Mims Jr.,DEN,False,True,True
+302,Spencer,Hunter Henry,NE,True,True,True
+303,Spencer,Brenton Strange,JAX,True,False,False
+304,Spencer,Dalton Schultz,HOU,True,True,False
+305,Spencer,Austin Hooper,NE,True,True,True
+306,Sleepless in South Beach,Trevor Lawrence,JAX,True,False,False
+307,Sleepless in South Beach,Matthew Stafford,LAR,True,True,True
+308,Sleepless in South Beach,Sam Darnold,SEA,False,True,True
+309,Sleepless in South Beach,C.J. Stroud,HOU,True,True,False
+310,Sleepless in South Beach,Kyren Williams,LAR,True,True,True
+311,Sleepless in South Beach,Travis Etienne,JAX,True,False,False
+312,Sleepless in South Beach,Zach Charbonnet,SEA,False,True,True
+313,Sleepless in South Beach,Rico Dowdle,CAR,True,False,False
+314,Sleepless in South Beach,Jaxon Smith-Njigba,SEA,False,True,True
+315,Sleepless in South Beach,Brian Thomas Jr.,JAX,True,False,False
+316,Sleepless in South Beach,Troy Franklin, Denver Broncos,True,False,False
+317,Sleepless in South Beach,Tetairoa McMillan,CAR,True,False,False
+318,Sleepless in South Beach,DeMario Douglas,NE,True,True,True
+319,Sleepless in South Beach,Christian Kirk,HOU,True,True,False
+320,Sleepless in South Beach,Hunter Henry,NE,True,True,True
+321,Sleepless in South Beach,Brenton Strange,JAX,True,False,False
+322,Sleepless in South Beach,AJ Barner,SEA,False,True,True
+323,Sleepless in South Beach,Oronde Gadsden II,LAC,True,False,False
+324,Ricky Bobby,Trevor Lawrence,JAX,True,False,False
+325,Ricky Bobby,Jalen Hurts,PHI,True,False,False
+326,Ricky Bobby,Sam Darnold,SEA,False,True,True
+327,Ricky Bobby,C.J. Stroud,HOU,True,True,False
+328,Ricky Bobby,Christian McCaffrey,SF,True,True,False
+329,Ricky Bobby,RJ Harvey,DEN,False,True,True
+330,Ricky Bobby,Zach Charbonnet,SEA,False,True,True
+331,Ricky Bobby,Bhayshul Tuten,JAX,True,False,False
+332,Ricky Bobby,Jaxon Smith-Njigba,SEA,False,True,True
+333,Ricky Bobby,Ladd McConkey,LAC,True,False,False
+334,Ricky Bobby,Troy Franklin, Denver Broncos,True,False,False
+335,Ricky Bobby,Cooper Kupp,SEA,False,True,True
+336,Ricky Bobby,Jahan Dotson,PHI,True,False,False
+337,Ricky Bobby,Marvin Mims Jr.,DEN,False,True,True
+338,Ricky Bobby,George Kittle,SF,True,True,False
+339,Ricky Bobby,Brenton Strange,JAX,True,False,False
+340,Ricky Bobby,AJ Barner,SEA,False,True,True
+341,Ricky Bobby,Oronde Gadsden II,LAC,True,False,False
+342,Fly Eagles Fly,Drake Maye,NE,True,True,True
+343,Fly Eagles Fly,Matthew Stafford,LAR,True,True,True
+344,Fly Eagles Fly,Caleb Williams,CHI,True,True,False
+345,Fly Eagles Fly,C.J. Stroud,HOU,True,True,False
+346,Fly Eagles Fly,Saquon Barkley,PHI,True,False,False
+347,Fly Eagles Fly,Rhamondre Stevenson,NE,True,True,True
+348,Fly Eagles Fly,Woody Marks,HOU,True,True,False
+349,Fly Eagles Fly,Bhayshul Tuten,JAX,True,False,False
+350,Fly Eagles Fly,Puka Nacua,LAR,True,True,True
+351,Fly Eagles Fly,Jakobi Meyers,JAX,True,False,False
+352,Fly Eagles Fly,Luther Burden III,CHI,True,True,False
+353,Fly Eagles Fly,Rashid Shaheed,SEA,False,True,True
+354,Fly Eagles Fly,Brandin Cooks,BUF,True,True,False
+355,Fly Eagles Fly,Marvin Mims Jr.,DEN,False,True,True
+356,Fly Eagles Fly,Colby Parkinson,LAR,True,True,True
+357,Fly Eagles Fly,Dalton Kincaid,BUF,True,True,False
+358,Fly Eagles Fly,AJ Barner,SEA,False,True,True
+359,Fly Eagles Fly,Austin Hooper,NE,True,True,True
