@@ -39,6 +39,6 @@ df1 = df[df["Manager_Name"] == option].loc[:, df.columns != 'Manager_Name']
 col_order = ['NFL_Team', 'Player_Name', 'Total Points', 'Total Wildcard', 'Total Division'] # , 'Total Conference', 'Total Superbowl'
 df1 = df1[col_order]
 
-st.dataframe(df1.style.apply(color_coding, axis=1), hide_index=True, height=550, use_container_width=False)
-
+st.dataframe(df1.style.apply(color_coding, axis=1), hide_index=True, height=550, width='stretch')
 # st.dataframe(df1, hide_index=True, height=550, use_container_width=True)
+
