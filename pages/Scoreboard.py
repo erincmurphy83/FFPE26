@@ -5,7 +5,7 @@ st.header("**Scoreboard**", divider='blue')
 
 # Read in the data
 df = pd.read_csv("data/managers_games.csv", index_col=[0])
-total_points_df = pd.read_csv(folder + "data/total_points.csv", index_col=[0])
+total_points_df = pd.read_csv("data/total_points.csv", index_col=[0])
 cols = {'Total_WC': 'Total Wildcard',
         'Total_Div': 'Total Division',
         # 'Total_Conf': 'Total Conference',
@@ -28,3 +28,4 @@ df2 = df2[col_order]
 
 
 st.dataframe(df2, hide_index=True, height=750, width=1500, use_container_width=False) 
+
