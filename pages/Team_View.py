@@ -7,9 +7,10 @@ df = pd.read_csv("data/total_points.csv", index_col=[0])
 cols = {'Total_WC': 'Total Wildcard',
         'Total_Div': 'Total Division',
         # 'Total_Conf': 'Total Conference',
-        # 'Total_SB': 'Total Superbowl',
-        'Total': 'Total Points'}
+        # 'Total_SB': 'Total Superbowl'
+        }
 df = df.rename(columns=cols)
+df['Total Points'] = df['Total Wildcard'] + df['Total Division']   #+ df['Total Conference'] + df['Total Superbowl']
 
 col1, col2 = st.columns(2)
 with col1:
@@ -27,7 +28,7 @@ with col2:
 
 st.divider()
 
-remaining_teams = ['SEA', 'DEN', 'LAR', 'NE']
+remaining_teams = ['SEA', 'DEN', 'LA', 'NE']
 
 def color_coding(row):
     return ['background-color:#1fd655'] * len(
@@ -39,3 +40,4 @@ col_order = ['NFL_Team', 'Player_Name', 'Total Points', 'Total Wildcard', 'Total
 df1 = df1[col_order]
 
 st.dataframe(df1.style.apply(color_coding, axis=1), hide_index=True, height=550, use_container_width=True)
+# st.dataframe(df1, hide_index=True, height=550, use_container_width=True)
