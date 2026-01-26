@@ -28,7 +28,7 @@ with col2:
 
 st.divider()
 
-remaining_teams = ['SEA', 'DEN', 'LA', 'NE']
+remaining_teams = ['SEA', 'NE']
 
 def color_coding(row):
     return ['background-color:#1fd655'] * len(
@@ -41,5 +41,6 @@ df1 = df1[col_order]
 
 st.dataframe(df1.style.apply(color_coding, axis=1), hide_index=True, height=550, width='stretch')
 # st.dataframe(df1, hide_index=True, height=550, use_container_width=True)
+
 
 
