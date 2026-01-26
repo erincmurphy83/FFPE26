@@ -6,11 +6,11 @@ st.header("**Individual Team View**", divider='gray')
 df = pd.read_csv("data/total_points.csv", index_col=[0])
 cols = {'Total_WC': 'Total Wildcard',
         'Total_Div': 'Total Division',
-        # 'Total_Conf': 'Total Conference',
+        'Total_Conf': 'Total Conference',
         # 'Total_SB': 'Total Superbowl'
         }
 df = df.rename(columns=cols)
-df['Total Points'] = df['Total Wildcard'] + df['Total Division']   #+ df['Total Conference'] + df['Total Superbowl']
+df['Total Points'] = df['Total Wildcard'] + df['Total Division'] + df['Total Conference'] #+ df['Total Superbowl']
 
 col1, col2 = st.columns(2)
 with col1:
@@ -36,9 +36,10 @@ def color_coding(row):
 
 df1 = df[df["Manager_Name"] == option].loc[:, df.columns != 'Manager_Name']
 
-col_order = ['NFL_Team', 'Player_Name', 'Total Points', 'Total Wildcard', 'Total Division'] # , 'Total Conference', 'Total Superbowl'
+col_order = ['NFL_Team', 'Player_Name', 'Total Points', 'Total Wildcard', 'Total Division', 'Total Conference'] #  , 'Total Superbowl'
 df1 = df1[col_order]
 
 st.dataframe(df1.style.apply(color_coding, axis=1), hide_index=True, height=550, width='stretch')
 # st.dataframe(df1, hide_index=True, height=550, use_container_width=True)
+
 
