@@ -9,10 +9,10 @@ total_points_df = pd.read_csv("data/total_points.csv", index_col=[0])
 cols = {'Total_WC': 'Total Wildcard',
         'Total_Div': 'Total Division',
         'Total_Conf': 'Total Conference',
-        # 'Total_SB': 'Total Superbowl'
+        'Total_SB': 'Total Superbowl'
         }
 total_points_df = total_points_df.rename(columns=cols)
-total_points_df['Total Points'] = total_points_df['Total Wildcard'] + total_points_df['Total Division'] + total_points_df['Total Conference'] #+ total_points_df['Total Superbowl']
+total_points_df['Total Points'] = total_points_df['Total Wildcard'] + total_points_df['Total Division'] + total_points_df['Total Conference'] + total_points_df['Total Superbowl']
 
 # Organize the data
 df1 = df.groupby('Manager_Name')["Super Bowl"].sum().reset_index(name='Players Remaining')
@@ -23,11 +23,12 @@ df2 = df2.merge(df1, on='Manager_Name').sort_values(by='Total Points', ascending
 df2['Rank'] = df2['Total Points'].rank(method='max', ascending=False).astype(int)
 
 # Reorder the columns
-col_order = ['Rank', 'Manager_Name', 'Players Remaining', 'Total Points', 'Total Wildcard', 'Total Division', 'Total Conference']  #, 'Total Superbowl'
+col_order = ['Rank', 'Manager_Name', 'Players Remaining', 'Total Points', 'Total Wildcard', 'Total Division', 'Total Conference', 'Total Superbowl']
 df2 = df2[col_order]
 
 
 st.dataframe(df2, hide_index=True, height=750, width=1500, use_container_width=False) 
+
 
 
 
